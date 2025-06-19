@@ -1,1 +1,1 @@
-## Projects in data science
+## Projects
