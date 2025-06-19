@@ -1,4 +1,4 @@
-# Salut, moi c’est i-chenene 👋
+# Hi 👋
 
 Bienvenue sur mon portfolio.  
 Je suis étudiant en mathématiques.
