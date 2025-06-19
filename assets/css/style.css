@@ -1,0 +1,15 @@
+/* Forcer la couleur du texte en noir */
+body {
+  color: black;
+}
+
+/* Mettre aussi les titres en noir */
+h1, h2, h3, h4, h5, h6 {
+  color: black;
+}
+
+/* Si tu veux aussi désactiver le bleu des liens */
+a {
+  color: black;
+  text-decoration: underline; /* ou none si tu préfères sans soulignement */
+}
