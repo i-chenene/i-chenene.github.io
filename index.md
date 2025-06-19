@@ -1,7 +1,4 @@
-# Hi 👋
-
-Bienvenue sur mon portfolio.  
-Je suis étudiant en mathématiques.
+# Selected projects in data science, machine learning and NLP
 
 ---
 
