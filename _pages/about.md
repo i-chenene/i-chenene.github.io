@@ -12,4 +12,4 @@ My academic background has given me strong foundations in statistical modeling, 
 
 I am now looking for a 5-month research internship from end of March 2026 to end of August 2026 in the Paris area.  
 
-Beyond academics, I also have experience in **math tutoring** and collaborative projects (e.g. proofreading and typesetting mathematical material in LaTeX), which taught me rigor, clarity, and teamwork.
+Beyond academics, I also have experience in math tutoring and collaborative projects (e.g. proofreading and typesetting mathematical material in LaTeX), which taught me rigor, clarity, and teamwork.
