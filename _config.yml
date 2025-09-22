@@ -26,6 +26,14 @@ author:
   kaggle           : 
   stackoverflow    : 
 
+  navbar:
+  enable: true
+  links:
+    - title: "Projects"
+      url: /projects/
+    - title: "CV"
+      url: /cv/
+
   # Réseaux
   linkedin         : "ilieschenene"
   twitter          : 
