@@ -6,10 +6,19 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+# Curriculum Vitae
 
-{% include base_path %}
+Je suis actuellement étudiant en **Master 1 Mathématiques & Intelligence Artificielle à l’Université Paris-Saclay**.  
+Mon CV est disponible ci-dessous :
 
-Education
-======
-* M.S.C in Mathematics and Artificial Intelligence, Paris-Saclay University, 2025-2026
-* B.S. in Advanced Mathematics, Aix-Marseille University, 2022-2025
+<div style="text-align: center; margin-top: 30px; margin-bottom: 30px;">
+  <a href="https://i-chenene.github.io/files/cv.pdf" target="_blank" style="
+    background-color: #2c3e50;
+    color: white;
+    padding: 12px 24px;
+    text-decoration: none;
+    font-size: 18px;
+    border-radius: 6px;">
+    📄 Télécharger mon CV (PDF)
+  </a>
+</div>
